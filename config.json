@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-fastapi-api",
+      "title": "Testing FastAPI APIs",
+      "description": "Write pytest tests for FastAPI endpoints, request validation, CRUD operations, and HTTP error responses.",
+      "path": "assignments/testing-fastapi-api",
+      "dueDate": "2026-11-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
