@@ -1,4 +1,4 @@
-# 📘 Tarefa: Análise de Dados
+# 📘 Assignment: Data Analysis
 
 ## 🎯 Objective
 
@@ -29,4 +29,4 @@ O programa completo deve:
 
 - Gerar pelo menos dois tipos diferentes de gráficos (por exemplo, histograma, gráfico de dispersão)
 - Identificar e descrever pelo menos dois insights ou tendências dos dados
-- Salvar os gráficos como arquivos de imagem
+- Salvar cada gráfico em um arquivo de imagem
